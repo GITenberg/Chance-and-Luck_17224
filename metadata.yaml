@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6917
     wikipedia: http://en.wikipedia.org/wiki/Richard_Anthony_Proctor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17224#Chance-and-Luck
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2005-12-04'
 gutenberg_type: Text
